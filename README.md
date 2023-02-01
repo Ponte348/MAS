@@ -8,3 +8,6 @@ Exame Teórico: 11
 Projeto: 16
 
 Relatórios: 16
+
+
+Nota Final: 14
